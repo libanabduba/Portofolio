@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 02 Dec 2022 17:18:07 at https://www.rammaheshwari.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.rammaheshwari.com -O1 "C:\Users\Habib\Desktop\sami ppppp" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:18:24	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/hkirvl5pqs5cjjawh11xutnzjgtg9tfi.js (from https://www.rammaheshwari.com/)
+17:18:24	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/hkirvl5pqs5cjjawh11xutnzjgtg9tfi.js (from https://www.rammaheshwari.com/)
+17:18:25	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://code.tidio.co:443/hkirvl5pqs5cjjawh11xutnzjgtg9tfi.js (from https://www.rammaheshwari.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 23 links scanned, 19 files written (1126941 bytes overall) [1082392 bytes received at 60132 bytes/sec], 73384 bytes transferred using HTTP compression in 7 files, ratio 24%, 1.5 requests per connection
+(1 errors, 2 warnings, 0 messages)
